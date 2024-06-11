@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  width: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-h {
+  color: white;
+  font-size: 40px;
+  font-family: roboto;
+}
+
+.img {
+  height: 200px;
+  width: 450px;
+}
+
+.h {
+  color: white;
+  font-size: 30px;
+  font-family: roboto;
+}
+
+.p {
+  color: #cbd5e1;
+  font-size: 15px;
+  font-family: roboto;
+}
+
+.btn1 {
+  height: 50px;
+  width: 130px;
+  margin: 20px;
+  background-color: #0b69ff;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn2 {
+  height: 50px;
+  width: 130px;
+  margin: 20px;
+  border-radius: 10px;
+  color: #94a3b8;
+  background-color: #07080c;
+  cursor: pointer;
+  outline: none;
+}
